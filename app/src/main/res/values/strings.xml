@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NewFoodOrderClient</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="edit_email">Enter e-mail</string>
+    <string name="edit_pass">Enter password</string>
+    <string name="sign_up_button">Sign Up</string>
+    <string name="checked">Already have an account</string>
+    <string name="sign_in_button">Sign in</string>
+    <string name="user_email">Enter e-mail</string>
+    <string name="user_pass">Enter password</string>
+    <string name="login_button">Login</string>
+</resources>
